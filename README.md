@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **Chris99ChangHo/Chris99ChangHo** , a passionate senior student majoring in Software Engineering and double majoring in Artificial Intelligence at the Department of Computer Science.
+I'm **Chris99ChangHo/ChangHo Jang** , a passionate senior student majoring in Software Engineering and double majoring in Artificial Intelligence at the Department of Computer Science.
 
 Here are some ideas to get you started:
 
