@@ -4,7 +4,11 @@
 I'm passionate about solving real-world problems through AI, data analysis, and software development.  
 Welcome to my GitHub – a place where I share projects that integrate technology with impactful solutions.
 
-🔗 [Portfolio](https://your-portfolio-link) | [LinkedIn](https://linkedin-link) | [GitHub](https://github.com/Chris99ChangHo)
+## 🔗 Links
+
+| **Platform**     |  **Portfolio**                     |  **LinkedIn**                      |  **GitHub**                     |
+|-------------------|--------------------------------------|---------------------------------------|------------------------------------|
+| **Link**          | [View Portfolio](https://your-portfolio-link) | [Connect on LinkedIn](https://linkedin-link) | [Visit GitHub](https://github.com/Chris99ChangHo) |
 
 ---
 
