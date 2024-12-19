@@ -26,12 +26,13 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 ---
 
 ## 🚀 Projects 
-
+프로젝트용 README하나 더 생성해서 상단 링크에 연결
 ---
 
 ## 💼 Experience
-
+나중에 인턴십 경험이나 일경험 추가
 ---
 
 ## 📊 GitHub Stats
+잔디 + 언어 + 백준 보여주기
 
