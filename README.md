@@ -5,7 +5,7 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 ## 🔗 Links
 
-| **Platform**     |  **🚀 Projects**                     |  **LinkedIn**                      |  **GitHub**                     |
+| **Platform**     |  **🚀 Projects**                     |  **💼 LinkedIn**                      |  **🐱 GitHub**                     |
 |-------------------|--------------------------------------|---------------------------------------|------------------------------------|
 | **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](https://linkedin-link) | [Visit GitHub](https://github.com/Chris99ChangHo) |
 
@@ -25,9 +25,12 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 ---
 
 ## 💼 Experience
-나중에 인턴십 경험이나 일경험 추가
+
+**나중에 인턴십 경험이나 일경험 추가**
+
 ---
 
 ## 📊 GitHub Stats
-잔디 + 언어 + 백준 보여주기
+
+**잔디 + 언어 + 백준 보여주기**
 
