@@ -7,7 +7,7 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 | **Platform**     |  **🚀 Projects**                     |  **💼 LinkedIn**                      |  **🐱 GitHub**                     |
 |-------------------|--------------------------------------|---------------------------------------|------------------------------------|
-| **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](www.linkedin.com/in/
+| **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](https://www.linkedin.com/in/
 창호-장-5430a8342)
  | [Visit GitHub](https://github.com/Chris99ChangHo) |
 
