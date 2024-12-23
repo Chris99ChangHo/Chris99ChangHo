@@ -5,7 +5,7 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 ## 🔗 Links
 
-| **Platform**     |  **Portfolio**                     |  **LinkedIn**                      |  **GitHub**                     |
+| **Platform**     |  **🚀 Projects**                     |  **LinkedIn**                      |  **GitHub**                     |
 |-------------------|--------------------------------------|---------------------------------------|------------------------------------|
 | **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](https://linkedin-link) | [Visit GitHub](https://github.com/Chris99ChangHo) |
 
@@ -22,10 +22,6 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 | **AI/ML Tools**         | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) |
 | **Data Analysis Tools** | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) |
 
----
-
-## 🚀 Projects 
-프로젝트용 README하나 더 생성해서 상단 링크에 연결
 ---
 
 ## 💼 Experience
