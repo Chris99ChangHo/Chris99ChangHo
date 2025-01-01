@@ -5,10 +5,9 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 ## 🔗 Links
 
-| **Platform**     | **🚀 Projects**                     | **💼 LinkedIn**                          | **🐱 GitHub**                      |
-|-------------------|-------------------------------------|------------------------------------------|------------------------------------|
-| **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](https://linkedin.com/in/창호-장-5430a8342) | [Visit GitHub](https://github.com/Chris99ChangHo) |
-
+| **Platform**     | **🚀 Projects**                     | **💼 LinkedIn**                          | **🐱 GitHub**                      | **📧 Email**                      |
+|-------------------|-------------------------------------|------------------------------------------|------------------------------------|------------------------------------|
+| **Link**          | [View Portfolio](https://github.com/Chris99ChangHo/Project-Portfolio) | [Connect on LinkedIn](https://linkedin.com/in/창호-장-5430a8342) | [Visit GitHub](https://github.com/Chris99ChangHo) | [Send Email](mailto:awakeev.d@gmail.com) |
 
 ---
 
