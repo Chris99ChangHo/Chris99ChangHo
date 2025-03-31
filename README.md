@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Changho Jang!
 ### **Aspiring Software Developer with a focus on leveraging AI**
-I'm passionate about solving real-world problems through AI, data analysis, and software development.  
+I'm passionate about solving real-world problems through AI, software development, and data analysis.
 Welcome to my GitHub – a place where I share projects that integrate technology with impactful solutions.
 
 ## 🔗 Links
