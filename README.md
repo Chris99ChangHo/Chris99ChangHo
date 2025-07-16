@@ -26,11 +26,12 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 ## 💼 Experience
 
-**나중에 인턴십 경험이나 일경험 추가**
+**GNA solutions, Intern**
+ㄴ 해외 일 경험(WELL) - 호주
 
 ---
 
 ## 📊 GitHub Stats
 
-**잔디 + 언어 + 백준 보여주기**
+**잔디 + 백준 노출**
 
