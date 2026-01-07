@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Changho Jang!
-### **Aspiring Software Developer with a focus on leveraging AI**
-I'm passionate about solving real-world problems through AI, software development, and data analysis.
-Welcome to my GitHub – a place where I share projects that integrate technology with impactful solutions.
+# 👋 Hi, I'm ChangHo Jang!
+### **수정**
+수정
 
 ## 🔗 Links
 
@@ -26,12 +25,13 @@ Welcome to my GitHub – a place where I share projects that integrate technolog
 
 ## 💼 Experience
 
-**GNA solutions, Intern**
-ㄴ 해외 일 경험(WELL) - 호주
+### **Programmer Intern** | [GNA Solutions Pty Ltd](https://gnasolutions.com.au/)
+*Sydney, NSW, Australia (May 2025 – Aug 2025)*
+
+* **Global Internship (WELL Program):** Gained hands-on experience in a fast-paced, international dev environment.
+* **Key Contributions:** * Automated product data handling during website migration using **Python and APIs**.
+    * Processed structured product data (pricing, descriptions, images) to ensure **system consistency**.
+    * Developed and customized professional e-commerce websites using **WordPress and Shopify**.
+* **Tech Stack:** Python, REST API, WordPress, Shopify, Data Automation.
 
 ---
-
-## 📊 GitHub Stats
-
-**잔디 + 백준 노출**
-
