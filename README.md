@@ -1,5 +1,5 @@
 # 👋 Hi, I'm ChangHo Jang!
-> **Aspiring Software Developer passionate about Adoption & Automation for Business Efficiency**
+> **Aspiring Software Engineer passionate about Adoption & Automation for Business Efficiency**
 
 ## 🔗 Links
 
